@@ -1,0 +1,2 @@
+# Multimodal-Movie-Genre
+DATA->EDA->TEXT MODEL-> IMAGE MODEL-> FUSION(TEXT+IMAGE)
