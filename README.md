@@ -73,14 +73,15 @@ This repo is my semester project for classifying movie genres using **both** plo
 - **Preprocessing**  
   - Resized posters to 224×224, normalized to ImageNet stats  
   - Added random crops & horizontal flips during training  
-- **Model**  
+- **Model**
+  - Tried Embeddings but doesn't work so training model based on raw posters
   - Used `torchvision`’s EfficientNet-B0 (pretrained)  
   - Replaced the final head with a single-layer classifier  
 - **Training**  
-  - Trained for ~8 epochs  
+  - Trained for ~20-30 epochs  
   - Logged accuracy & loss curves  
 - **Results**  
-  - Reached ~68% accuracy on my validation set  
+  - Currently overfitting with increasing validation loss and decreasing accuracy  
 
 *(Details in `EfficientNetModel with acccuracy and loss.ipynb`.)*
 
