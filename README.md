@@ -9,6 +9,7 @@ Here’s a down-to-earth README that walks through exactly what I’ve done so f
 > **Course:** EAS 510LEC (AI Basics) – Spring 2025  
 > **Author:** Anupam Patil (Data Specialist role and Image Modelling lead)  
 **Co-Author:** Nandini Soni (Text Model and Fusion Lead) 
+
 This repo is my semester project for classifying movie genres using **both** plot summaries and poster images. I’ve broken my work into three main notebooks:
 
 - **Data_Colllection_EDA.ipynb** – grabbing the data, cleaning it, and running some EDA  
