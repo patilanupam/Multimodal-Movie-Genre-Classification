@@ -1,6 +1,5 @@
 # Multimodal-Movie-Genre
 DATA->EDA->TEXT MODEL-> IMAGE MODEL-> FUSION(TEXT+IMAGE)
-Here’s a down-to-earth README that walks through exactly what I’ve done so far—just like I’d explain it to a classmate.
 
 ---
 
