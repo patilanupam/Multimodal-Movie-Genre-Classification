@@ -2,7 +2,7 @@
 DATA->EDA->TEXT MODEL-> IMAGE MODEL-> FUSION(TEXT+IMAGE)
 
 ---
-
+# Website Link: https://genregenie.netlify.app/
 # Multimodal Movie Genre Classification
 
 > **Course:** EAS 510LEC (AI Basics) – Spring 2025  
@@ -94,3 +94,6 @@ This repo is my semester project for classifying movie genres using **both** plo
 - **Bonus**: simple Flask app to upload a poster & plot and see genre predictions  
 
 ---
+## 6. LinkedIn Profile:
+- **Anupam Patil**: https://www.linkedin.com/in/anupam-patil 
+- **Nandini Soni**: https://www.linkedin.com/in/nandini-soni-901bb580/
